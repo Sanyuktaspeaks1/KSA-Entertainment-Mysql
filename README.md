@@ -26,7 +26,7 @@ SELECT * FROM cinemas;
 SELECT * FROM cinemas WHERE rating = 5;
 ```
 
-3. Count the Number of Cinemas in Each Country
+3. Count the Number of Cinemas in Each City
 ```sql
 
 
